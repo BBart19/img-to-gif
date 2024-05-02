@@ -1,6 +1,7 @@
 # img-to-gif
 
 ###############ENG###############
+
 Project Title: img-to-gif
 Description:
 Img-to-gif is a C# console application that facilitates the creation of animated GIFs from a series of images. This tool supports various image formats, including JPEG and PNG, allowing users to input multiple images via command-line arguments and compile them into a single GIF file. It's an ideal solution for quickly generating GIFs for presentations, social media, or personal use.
@@ -18,6 +19,7 @@ img-to-gif --img1 "path_to_image1.jpg" --img2 "path_to_image2.jpg" --output "pat
 
 
 ###############PL###############
+
 Tytuł projektu: img-to-gif
 Opis:
 Img-to-gif to aplikacja konsolowa w języku C#, która umożliwia tworzenie animowanych GIF-ów z serii obrazów. Narzędzie obsługuje różne formaty obrazów, w tym JPEG i PNG, co pozwala użytkownikom na wprowadzenie wielu obrazów za pomocą argumentów linii poleceń i skompilowanie ich w pojedynczy plik GIF. Jest to idealne rozwiązanie do szybkiego generowania GIF-ów na potrzeby prezentacji, mediów społecznościowych czy użytku osobistego.
