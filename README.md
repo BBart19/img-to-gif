@@ -15,6 +15,8 @@ Command-line based interface for easy operation.<br>
 Customizable output file path.<br>
 Dynamic handling of any number of input images.<br>
 Usage:<br>
+
+
 To use this application, run it with command-line arguments specifying the paths to the images and the output GIF file. For example:<br>
 
 
@@ -36,6 +38,8 @@ Interfejs oparty na linii poleceń dla łatwej obsługi.<br>
 Możliwość dostosowania ścieżki pliku wyjściowego.<br>
 Dynamiczne zarządzanie dowolną liczbą wejściowych obrazów.<br>
 Sposób użycia:<br>
+
+
 Aby użyć tej aplikacji, uruchom ją z argumentami linii poleceń określającymi ścieżki do obrazów i pliku wyjściowego GIF. Na przykład:<br>
 
 
