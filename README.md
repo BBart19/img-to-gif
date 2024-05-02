@@ -1,7 +1,7 @@
 # img-to-gif
 
 ###############ENG###############<br>
-
+<br>
 Project Title: img-to-gif<br>
 
 
@@ -25,7 +25,7 @@ img-to-gif --img1 "path_to_image1.jpg" --img2 "path_to_image2.jpg" --output "pat
 <br>
 <br>
 ###############PL###############<br>
-
+<br>
 Tytuł projektu: img-to-gif<br>
 
 
