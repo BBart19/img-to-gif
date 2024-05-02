@@ -23,6 +23,8 @@ To use this application, run it with command-line arguments specifying the paths
 img-to-gif --img1 "path_to_image1.jpg" --img2 "path_to_image2.jpg" --output "path_to_output.gif"<br>
 
 
+
+
 ###############PL###############<br>
 
 Tytuł projektu: img-to-gif<br>
