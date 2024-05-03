@@ -23,4 +23,5 @@ To use this application, run it with command-line arguments specifying the paths
 img-to-gif --img1 "path_to_image1.jpg" --img2 "path_to_image2.jpg" --output "path_to_output.gif"<br>
 <br>
 <br>
+New feature --frameDuration<br>
 The frameDuration feature was introduced in version 1.1.0 of the GIF Creator from Images tool, providing enhanced control over the timing of animations.<br>
