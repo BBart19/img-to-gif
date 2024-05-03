@@ -24,4 +24,4 @@ img-to-gif --img1 "path_to_image1.jpg" --img2 "path_to_image2.jpg" --output "pat
 <br>
 <br>
 New feature --frameDuration<br>
-The frameDuration feature was introduced in version 1.1.0 of the GIF Creator from Images tool, providing enhanced control over the timing of animations.<br>
+The frameDuration feature was introduced in version 1.1.0 of img-to-gif tool, providing enhanced control over the timing of animations.<br>
