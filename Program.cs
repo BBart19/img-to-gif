@@ -8,19 +8,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        if (args.Length == 0 || args.Length % 2 != 0)  // Ensure there's a correct pair of arguments
+        if (args.Length == 0 || args.Length % 2 != 0) 
         {
             Console.WriteLine("Incorrect or no arguments provided. Use --imgX \"path_to_imageX.jpg\" for images and --output \"path_to_output.gif\" for the output path.");
-            return; // Exit the program if no arguments are provided
+            return;
         }
 
         try
         {
-            // Parsing command line arguments
+            
             Dictionary<string, string> arguments = ParseArguments(args);
             string outputFilePath = arguments.ContainsKey("--output") ? arguments["--output"] : "output.gif";
 
-            // Assigning image paths to a list
+            
             List<string> imageFiles = new List<string>();
             int index = 1;
             while (arguments.ContainsKey($"--img{index}"))
